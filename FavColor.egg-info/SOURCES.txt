@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+FavColor.egg-info/PKG-INFO
+FavColor.egg-info/SOURCES.txt
+FavColor.egg-info/dependency_links.txt
+FavColor.egg-info/requires.txt
+FavColor.egg-info/top_level.txt
